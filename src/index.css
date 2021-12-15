@@ -113,7 +113,7 @@ h6{
 header{
   
    
-   background-image: url("F:\new compny project\ianalystweb\iAnalyst\ianalystwebsite\src\img\A4.jpg");
+   background-image: url("\src\img\A4.jpg");
    text-align: center;
   
    min-width: 100%;
